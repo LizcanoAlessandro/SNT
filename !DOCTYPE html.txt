@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Chapitre : Les réseaux sociaux</title>
+</head>
+<body>
+    <h1>Chapitre : Les Réseaux Sociaux</h1>
+
+    <h2>Introduction</h2>
+    <p>Les réseaux sociaux permettent de connecter les individus via des plateformes numériques comme Instagram, Facebook ou TikTok.</p>
+
+    <h2>Exercice</h2>
+    <p><strong>Question :</strong> Citez 3 réseaux sociaux populaires utilisés en France et décrivez leur utilité principale.</p>
+
+    <a href="index.html">Retour à l'accueil</a>
+</body>
+</html>
